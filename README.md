@@ -49,6 +49,7 @@ As a QA Engineer, I created this project to simulate real SQL validation scenari
 - NULL checks
 
 ## Sample Screenshot
+inactive users -> <img width="1450" height="896" alt="10_cleanup png" src="https://github.com/user-attachments/assets/17dcff25-9b88-4693-be87-30b17645530e" />
 
 
 ## What I Learned
